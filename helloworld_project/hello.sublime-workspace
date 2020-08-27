@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"netw",
+				"network3\tmodule ⟠"
+			],
+			[
+				"poo",
+				"pooled_out\t⟠"
+			],
+			[
+				"filter",
+				"filter_shape\t⟠"
+			],
+			[
+				"filt",
+				"filter_shape\t⟠"
+			],
+			[
+				"inpt",
+				"inpt_dropout\t⟠"
+			],
+			[
+				"n",
+				"n_in\t⟠"
+			],
+			[
+				"co",
+				"config\t⟠"
+			],
+			[
+				"p",
+				"p_dropout\tfloat ⟠"
+			],
+			[
+				"spa",
+				"spacing\t[horizontal,vertical]"
+			],
+			[
+				"tex",
+				"text_size"
+			],
+			[
+				"size",
+				"size_hint_x"
+			],
+			[
+				"siz",
+				"size_hint_x"
+			],
+			[
+				"si",
+				"size_hint_y"
+			],
+			[
+				"Bu",
+				"Button\tKivy"
+			],
+			[
+				"Bo",
+				"BoxLayout\tKivy"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"byt",
+				"bytes\ttype ⟠"
+			],
+			[
+				"cl",
+				"client\tunknown ⟠"
+			],
+			[
+				"mat",
+				"matcher\tunknown ⟠"
+			],
+			[
+				"match",
+				"match_regex(…)\tfunction ⟠"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"gr",
+				"groups\tfunction ⟠"
+			],
+			[
+				"li",
+				"lines\tunion ⟠"
+			],
+			[
+				"re",
+				"readlines(…)\tfunction ⟠"
+			],
+			[
+				"input",
+				"input_list\tlist ⟠"
+			],
+			[
+				"get",
+				"get_primes_version"
+			],
+			[
+				"inp",
+				"input_list\tunknown ⟠"
+			],
+			[
+				"war",
+				"WARNING"
+			],
+			[
+				"Wa",
+				"WarningFilter\ttype ⟠"
+			],
+			[
+				"in",
+				"input_strings\tlist ⟠"
+			],
+			[
+				"ite",
+				"items\tunknown ⟠"
+			],
+			[
+				"St",
+				"StopIteration\ttype ⟠"
+			],
+			[
+				"str",
+				"string\tunknown ⟠"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"lo",
+				"loaded_data"
+			],
+			[
+				"pic",
+				"pickled_list"
+			],
+			[
+				"e",
+				"email\tunknown ⟠"
+			],
+			[
+				"em",
+				"email_map\tdefaultdict ⟠"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"fom",
+				"format(…)\tfunction ⟠"
+			],
+			[
+				"ema",
+				"email_in_groups(…)\tfunction ⟠"
+			],
+			[
+				"noe",
+				"None\tNoneType ⟠"
+			],
+			[
+				"email",
+				"emails\tset ⟠"
+			],
+			[
+				"from",
+				"from_addrs\tunknown ⟠"
+			],
+			[
+				"fo",
+				"format_time(…)\tfunction ⟠"
+			],
+			[
+				"tim",
+				"time_driven\tmodule ⟠"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"cou",
+				"Counter\ttype ⟠"
+			],
+			[
+				"fr",
+				"frequencies\tdict ⟠"
+			],
+			[
+				"freq",
+				"frequencies"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"brea",
+				"break\tkeyword ⟠"
+			],
+			[
+				"rep",
+				"replace_string\tunknown ⟠"
+			],
+			[
+				"pa",
+				"pathlib\tmodule ⟠"
+			],
+			[
+				"pr",
+				"print\tfunction ⟠"
+			],
+			[
+				"Pong",
+				"PongGame\ttype ⟠"
+			],
+			[
+				"cen",
+				"center\tvalue"
+			],
+			[
+				"font",
+				"font_size"
+			],
+			[
+				"ran",
+				"random\tfunction ⟠"
+			],
+			[
+				"T",
+				"TextInput\ttype ⟠"
+			],
+			[
+				"el",
+				"else:\tkeyword ⟠"
+			],
+			[
+				"per",
+				"perm_set\tunknown ⟠"
+			],
+			[
+				"perm",
+				"perm_name\tunknown ⟠"
+			],
+			[
+				"is",
+				"is_looged_in"
+			],
+			[
+				"In",
+				"InvalidUsername(…)\ttype ⟠"
+			],
+			[
+				"use",
+				"user\tunknown ⟠"
+			],
+			[
+				"ra",
+				"raise \tkeyword ⟠"
+			],
+			[
+				"enc",
+				"encrypted"
+			],
+			[
+				"hash",
+				"hash_string\tunknown ⟠"
+			],
+			[
+				"int",
+				"integer\tunknown ⟠"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"cla",
+				"class \tkeyword ⟠"
+			],
+			[
+				"Note",
+				"NoteBook(…)\ttype ⟠"
+			],
+			[
+				"no",
+				"note_id\tunknown ⟠"
+			],
+			[
+				"_",
+				"_find_note"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"fol",
+				"float\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Ba",
+				"BatteryForm"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"b",
+				"brightness()\tfilter"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"sub",
+				"subHeadingEl\tany"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"to",
+				"toggleClassName\t(el: any, className: any) => any"
+			],
+			[
+				"us",
+				"UserModel"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"U",
+				"UserModel"
+			],
+			[
+				"Us",
+				"UserLoginSerializer"
+			],
+			[
+				"A",
+				"APIView"
+			],
+			[
+				"H",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"va",
+				"ValidationError"
+			],
+			[
+				"ema1",
+				"email1"
+			],
+			[
+				"ro",
+				"rotate()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"cta",
+				"cta2"
+			],
+			[
+				"cat",
+				"cta1"
+			],
+			[
+				"grid",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"over",
+				"overlay\tHTMLElement | null"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-au",
+				"grid-auto-flow\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"grid-a",
+				"grid-auto-flow\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"clea",
+				"clearInterval\t(intervalID: number)"
+			],
+			[
+				"cons",
+				"console\t{assert(condition: mixed, ...data: Array<any>): void; clear(): void; count(label: string): void; debug(...data: Array<any>): void; dir(...data: Array<any>): void; dirxml(...data: Array<any>): void; error(...data: Array<any>): void; _exception(...data: Array<any>): void; group(...data: Array<any>): void; groupCollapsed(...data: Array<any>): void; groupEnd(): void; info(...data: Array<any>): void; log(...data: Array<any>): void; profile(name: string): void; profileEnd(): void; table(tabularData: { [key: string]: any } | Array<{ [key: string]: any }> | Array<Array<any>>): void; time(label: string): void; timeEnd(label: string): void; timeStamp(label?: string): void; trace(...data: Array<any>): void; warn(...data: Array<any>): void; }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3122,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kiv",
+				"Set Syntax: Kivy Syntax"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set syntax reac",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"set syntax: templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"re",
+				"Set Syntax: React Templates"
+			],
+			[
+				"slinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"react templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Web_Dev/helloworld"
+	],
+	"file_history":
+	[
+		"/D/Web_Dev/django/manage.py",
+		"/D/Web_Dev/helloworld/manage.py",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/cs231n/datasets/get_datasets.sh",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/load_data.py",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/keras_data_load.py",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/cs231n/classifiers/k_nearest_neighbor.py",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/cs231n/data_utils.py",
+		"/D/Machine Learning/CS231n/Assignments/assignment1/cs231n/vis_utils.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/FullyConnectedLayer.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/network3.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/run_conv.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/SoftmaxLayer.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/ConvPoolLayer.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/run.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/mnist_loader.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/network2.py",
+		"/D/Machine Learning/neural-networks-and-deep-learning/src/network3.py",
+		"/D/git-tutorial/mysoft/path-terminal.txt",
+		"/D/git-tutorial/mysoft/test-2.txt",
+		"/D/git-tutorial/mysoft/bugs/bugs_test.py",
+		"/D/git-tutorial/RemoteTest/main/main.py",
+		"/D/tbl/SOFTWARE/Alcatel/script/CT-K_ilog_licence.bat",
+		"/D/git-tutorial/mysoft/test-1.txt",
+		"/D/KIVY/dusty/main.py",
+		"/D/KIVY/dusty/weather.kv",
+		"/D/Data-Science/OOP/chapter 10/client.py",
+		"/D/Data-Science/OOP/chapter 10/decorator_exp.py",
+		"/D/Data-Science/OOP/chapter 9/iterator_test.py",
+		"/D/Data-Science/OOP/chapter 9/iterator_test1.py",
+		"/D/Data-Science/OOP/chapter 9/log_processing.py",
+		"/D/Data-Science/OOP/chapter 9/filesystem.py",
+		"/D/Data-Science/OOP/chapter 9/prime.py",
+		"/D/Data-Science/OOP/chapter 9/more_log_parsing.py",
+		"/D/Data-Science/OOP/chapter 9/log_messages.txt",
+		"/D/Data-Science/OOP/chapter 9/exp_generator.py",
+		"/D/Data-Science/OOP/chapter 9/procsess_log.txt",
+		"/D/Data-Science/OOP/chapter 9/log.txt",
+		"/D/Data-Science/OOP/chapter 8/pickle_test.py",
+		"/D/Data-Science/OOP/chapter 7/pickle.py",
+		"/D/Data-Science/OOP/chapter 7/time_driven.py",
+		"/D/Data-Science/OOP/chapter 7/testing.py",
+		"/D/Data-Science/OOP/chapter 7/mail.py",
+		"/D/Data-Science/OOP/chapter 7/mailinglist.py",
+		"/D/Data-Science/OOP/chapter 8/regex.py",
+		"/D/Data-Science/OOP/chapter 8/regex_fur.py",
+		"/D/KIVY/Pong Game/pong.kv",
+		"/D/KIVY/Pong Game/main.py",
+		"/D/Data-Science/OOP/Chapter 5/decorator.py",
+		"/D/Data-Science/OOP/Chapter 5/chap_5_intro.py",
+		"/D/Data-Science/OOP/Chapter 5/document.py",
+		"/D/Data-Science/OOP/chapter 6/count_letter.py",
+		"/D/Data-Science/OOP/chapter 6/index.html",
+		"/D/Data-Science/OOP/Chapter 5/image_scaling.py",
+		"/D/Data-Science/OOP/Chapter 5/prac_use_prop.py",
+		"/D/Data-Science/OOP/Chapter 5/mangament.py",
+		"/D/Data-Science/OOP/Chapter 5/zip_processor.py",
+		"/D/Data-Science/OOP/Chapter 5/unzipped-hello.zip/hello/hello.txt",
+		"/D/KIVY/Simple Paint App/paint.py",
+		"/D/KIVY/main.py",
+		"/D/Data-Science/OOP/Exception/case_study_exp.py",
+		"/D/Data-Science/OOP/Chapter 3/contact.py",
+		"/D/Data-Science/OOP/Exception/exception.py",
+		"/D/Data-Science/OOP/CL Notebook/commandoption.py",
+		"/D/Data-Science/OOP/CL Notebook/menu.py",
+		"/D/Data-Science/OOP/CL Notebook/notebook.py",
+		"/D/Data-Science/ML Udemy/Machine Learning A-Z/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression_update.py",
+		"/C/Users/Asus/Dev/test-tbl/grid-table.html",
+		"/C/Users/Asus/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/Asus/Dev/test-tbl/table.css",
+		"/C/Users/Asus/Dev/test-tbl/table.html",
+		"/C/Program Files/KMPlayer 64X/KMPlayer64.exe",
+		"/D/oldcomp/MY LIFE/VIDEO LEC/SINGLE VARIABLE/SVC Revisited/Calculus Revisited_SV/Study Guide/MITRES_18_006_study_1.pdf",
+		"/D/oldcomp/MY LIFE/VIDEO LEC/SINGLE VARIABLE/SVC Revisited/Calculus Revisited_SV/Supplementary Notes_SVC.pdf",
+		"/C/Users/Asus/Dev/tbl-project/battery/templates/battery/create_battery.html",
+		"/C/Users/Asus/Dev/tbl-project/battery/templates/battery/batteries_list.html",
+		"/C/Users/Asus/Dev/tbl-project/tbl/urls.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/urls.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/templates/battery/battery_detail.html",
+		"/C/Users/Asus/Dev/tbl-project/battery/views.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/forms.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/validators.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/models.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/templates/sites/site_detail.html",
+		"/C/Users/Asus/Dev/tbl-project/tbl/settings.py",
+		"/C/Users/Asus/Dev/tbl-project/battery/static/battery/css/batterydetail.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/templates/sites/sites_list.html",
+		"/C/Users/Asus/Dev/tbl-project/battery/admin.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/static/sites/css/sitedetail.css",
+		"/C/Users/Asus/Dev/tbl-project/battery/static/battery/css/batterylist.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/static/sites/css/sitelist.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/views.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/models.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/urls.py",
+		"/C/Users/Asus/Dev/blog/src/posts/forms.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/forms.py",
+		"/C/Users/Asus/Dev/tbl-project/templates/base.html",
+		"/C/Users/Asus/Dev/tbl-project/static_cdn/sites/css/sitelist.css",
+		"/C/Users/Asus/Dev/tbl-project/static_cdn/sites/css/site_list.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/static/sites/css/site_list.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/templates/sites/static/sites/css/site_list.css",
+		"/C/Users/Asus/Dev/blog/src/posts/models.py",
+		"/C/Users/Asus/Dev/blog/src/posts/views.py",
+		"/C/Users/Asus/Dev/blog/src/posts/templates/posts/posts_list.html",
+		"/C/Users/Asus/Dev/blog/src/posts/templates/posts/posts_detail.html",
+		"/C/Users/Asus/Dev/blog/src/posts/templates/posts/create_post.html",
+		"/C/Users/Asus/Dev/tbl-project/tbl/static/js/base.js",
+		"/C/Users/Asus/Dev/tbl-project/tbl/static/css/base.css",
+		"/C/Users/Asus/Dev/tbl-project/sites/templates/sites/create_site.html",
+		"/C/Users/Asus/Dev/producthunt-project/products/templates/products/create_product.html",
+		"/C/Users/Asus/Dev/tbl-project/sites/admin.py",
+		"/C/Users/Asus/Dev/tbl-project/sites/utils.py",
+		"/C/Users/Asus/Dev/tbl-project/templates/home.html",
+		"/C/Users/Asus/Dev/producthunt-project/producthunt/settings.py",
+		"/C/Users/Asus/Dev/tbl-project/static/css/base.css",
+		"/C/Users/Asus/Dev/tbl-project/static/js/base.js",
+		"/C/Users/Asus/Dev/producthunt-project/templates/base.html",
+		"/C/Users/Asus/Dev/test-tbl/base.html",
+		"/C/Users/Asus/Dev/test-tbl/base.css",
+		"/C/Users/Asus/Dev/test-tbl/base.js",
+		"/C/Users/Asus/Dev/test-tbl/total.js",
+		"/C/Users/Asus/Dev/test-tbl/index.js",
+		"/C/Users/Asus/Dev/test-tbl/site.html",
+		"/C/Users/Asus/Dev/test-tbl/site.css",
+		"/C/Users/Asus/Dev/test-tbl/total.css",
+		"/C/Users/Asus/Dev/blog/src/blog/settings.py",
+		"/C/Users/Asus/Dev/test-tbl/total.html",
+		"/C/Users/Asus/Dev/css-grid-master/24 - Responisve Website/responsive-START.css",
+		"/C/Users/Asus/Dev/css-grid-master/assets/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 265.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 870.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
